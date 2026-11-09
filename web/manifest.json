@@ -1,0 +1,11 @@
+{
+    "name": "SleepTrack",
+    "short_name": "SleepTrack",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0C1017",
+    "theme_color": "#233246",
+    "description": "Calm, private, science-grounded sleep tracking.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
